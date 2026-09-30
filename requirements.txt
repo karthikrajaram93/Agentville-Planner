@@ -1,0 +1,6 @@
+openai>=1.40
+pydantic>=2.5
+python-dotenv>=1.0
+# For running the offline tests only:
+nbformat>=5.9
+pytest>=8.0
